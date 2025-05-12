@@ -14,8 +14,8 @@ This project is part of a peer group assignment where we designed an e-commerce 
 ## 📄 Files Included
 - `ecommerce.sql`: Full SQL script to create all tables and constraints
 - `erd.png`: Exported ERD image
-- `ecommerce.dbml`: DBML file used in dbdiagram.io (optional)
-- `sample_data.csv`: Sample CSV file for diagram import (optional)
+- `ecommerce.dbml`: DBML file used in dbdiagram.io (database schema)
+
 
 ## 🗂️ Tables Designed
 - `product`
