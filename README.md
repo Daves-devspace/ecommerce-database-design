@@ -1,8 +1,7 @@
 # 🛍️ E-commerce Database Design
 
-## 📘 Overview
-This project is part of a peer group assignment where we designed an e-commerce database using Entity-Relationship (ER) modeling and SQL. The goal was to practice database architecture, team collaboration, and real-world data modeling.
-
+#📘 Project Summary
+This project is a  implementation of an e-commerce database schema, designed to strengthen practical skills in data modeling, SQL, and database architecture. It involves creating an Entity-Relationship Diagram (ERD), defining the structure using SQL, and ensuring relational integrity across multiple interconnected tables that simulate a real-world e-commerce system.
 
 
 ## 🛠️ Tools Used
